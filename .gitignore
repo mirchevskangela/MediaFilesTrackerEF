@@ -1,0 +1,29 @@
+# Ignore compiled files
+*.exe
+*.dll
+*.pdb
+
+# Ignore build output folders
+bin/
+obj/
+
+# Ignore user-specific files and folders
+.vscode/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore NuGet package folders
+packages/
+*.nupkg
+
+# Ignore Visual Studio files
+*.vscode
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore project-specific files
+App.config.user
+appsettings.json
